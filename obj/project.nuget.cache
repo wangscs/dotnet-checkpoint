@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "t8zSNljm10o0ICgweSViqj+YKeJ3RVOQAIQ6g7aligv6lh/Z7ih7HmFQZ+OUsXzv4kjcT2psi3zbepLHUuDFxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\StevenMSI\\Documents\\CodingProjects\\Galvanize\\dotnet-checkpoint\\dotnet-checkpoint.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\StevenMSI\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
